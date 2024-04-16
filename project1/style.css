@@ -1,0 +1,28 @@
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name img{
+    margin: 100px ;
+    height: 50vh;
+    width:20vw;
+    margin-left: -20px;
+    border-radius: 500px;
+}
+.name h1{
+    right: 40px;
+    font-family: sans-serif;
+    margin-left: 110px;
+}
+.name span{
+    margin-left: 350px;
+}
+
+
+.container{
+    height: 100%;
+    width: 70vw;
+    border: 2px solid black;
+    margin: auto;
+}
